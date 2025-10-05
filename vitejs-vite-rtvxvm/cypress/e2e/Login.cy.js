@@ -30,6 +30,6 @@ describe('Login Form', ()=>{
         cy.contains("Sign In").should('be.disabled')
     })
 })
-//
+//deneme
 
 
